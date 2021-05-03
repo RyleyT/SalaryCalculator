@@ -3,8 +3,8 @@ package SalaryCalculator;
 import java.util.StringJoiner;
 import java.util.regex.Pattern;
 
-/* The purpose of this class is to contain the logic that will be used for all employees in this project.
- * Since the amount of calculations is small, both the model data and the controller logic for employees are kept in the same file.
+/* The purpose of this class is to create the data model that will be used for all employees in this project.
+ * 
  */
 
 enum Role {PART_TIME, FULL_TIME, CONTRACT, INVALID};

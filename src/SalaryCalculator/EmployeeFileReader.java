@@ -1,6 +1,8 @@
 package SalaryCalculator;
 
-/* This is a helper class used to separate the logic to read input from a file */
+/* The purpose of this class is to help separate the logic needed to read input from a CSV file and create employees based off of that input
+ * 
+ */
 
 import java.io.BufferedReader;
 import java.io.IOException;

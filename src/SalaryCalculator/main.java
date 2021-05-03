@@ -3,8 +3,8 @@ package SalaryCalculator;
 import java.io.IOException;
 import java.util.List;
 
-/* The purpose of this application is to take in information about a list of employees from a CSV file, passed into the application as a command line argument,
- * and print the salary amount for each employee to the terminal. 
+/* The purpose of this application is to take in information about a list of employees from a CSV file, passed into the application as a command line argument, 
+ * and print the salary amount for each employee to the terminal. This program splits its classes to utilize an MVC architecture.
  */
 
 public class main {

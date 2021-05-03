@@ -4,8 +4,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /* The purpose of this class is to format the output that is displayed to the terminal.
- * The output should group together employees by role and display their total salary and name.
- * An optional menu is created to allow the user to   
+ * The output should group together employees by role and display their total salary and name.  
  */
 
 public class OutputFormatter {
