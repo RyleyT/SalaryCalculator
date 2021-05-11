@@ -7,7 +7,7 @@ To run using terminal
 
 1.) In a new terminal, navigate to the SalaryCalculator\src folder.
 
-2.) Use the command "javac SalaryCalculator\*.java" to compile.
+2.) Use the command "javac SalaryCalculator\\*.java" to compile.
 
 3.) Use "java SalaryCalculator.main Employees.csv" to run.
 
